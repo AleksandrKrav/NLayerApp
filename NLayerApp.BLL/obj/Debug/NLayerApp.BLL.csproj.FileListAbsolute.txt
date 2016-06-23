@@ -1,0 +1,16 @@
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.dll.config
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\AutoMapper.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\Ninject.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\AutoMapper.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\bin\Debug\Ninject.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.pdb

@@ -1,0 +1,10 @@
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.dll.config
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.pdb
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.dll
+c:\users\alexandr\documents\visual studio 2013\Projects\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.pdb
